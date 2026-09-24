@@ -34,7 +34,6 @@ python app.py
 # Disponible en http://127.0.0.1:5000
 4. Mapeo Arquitectónico
 Estructura de carpetas
-
 proyecto/
 ├── app.py               # Aplicación principal Flask
 ├── db_config.py         # Configuración de conexión a BD
@@ -50,6 +49,7 @@ proyecto/
     ├── js/
     │   └── pedido.js
     └── img/
+    
 Enlaces a diagramas (docs/)
 •	[Diagrama de flujo de navegación → docs/flujo_navegacion.png]
 •	[Diagrama entidad-relación de la base de datos → docs/diagrama_er.png]
